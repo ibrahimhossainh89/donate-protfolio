@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', 'Poppins', sans-serif;
+    margin: 0;
+}
+.header-section {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: relative;
+}
+.header-containt {
+    text-align: center;
+    height: 500px;
+    padding: 5%;
+    color: #ffffff;
+    background-color: rgba(22, 6, 6, 0.671)
+}
+.header-containt h1 {
+    font-size: 60px;
+    margin: 5px;
+}
+.header-containt a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 10px 20px;
+    font-weight: 800;
+    background-color: tomato;
+    border-radius: 5px;
+}
