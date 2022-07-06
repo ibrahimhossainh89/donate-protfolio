@@ -133,26 +133,26 @@ body{
     width: 100%;
 }
 #donate-plan-1 {
-    background-color: #ecf4f5e3;
+    background-color: #d1f0f5e3;
     padding: 10px 15px;
     border-radius: 5px;
-    margin-right: 20px;
-    height: 500px;
+    margin-right: 25px;
+    height: 400px;
     width: 33%;
 }
 #donate-plan-2 {
-    background-color: #ffedede7;
+    background-color: #e0c7c7e7;
     padding: 10px 15px;
-    border-radius: 5px;
-    margin-right: 20px;
-    height: 500px;
+    border-radius: 8px;
+    margin-right: 25px;
+    height: 400px;
     width: 33%;
 }
 #donate-plan-3 {
-    background-color: #FEF3D6;
+    background-color: #f5ecd2;
     padding: 10px 15px;
-    border-radius: 5px;
-    height: 500px;
+    border-radius: 8px;
+    height: 400px;
     width: 33%;
 }
 
@@ -184,9 +184,6 @@ body{
     height: 100%;
     box-shadow: 2px 2px 20px #000000;
 }
-
-
-
 .update-section {
     margin: 200px;
     text-align: center;
@@ -207,15 +204,13 @@ body{
 .subscribe {
     margin: 0 auto;
     text-align: center;
-    background-color: #f8e4e4;
+    background-color: #f3efef;
     width:50%;
     height: 80px;
     padding: 50px 40px 120px 40px;
-    border: 1px solid #fd8383fa;
     border-radius: 5px;
 }
 #subscribe-text {
-    border: 0px solid #dadadae0;
     background-color: #dadadae0;
     text-align: left;
     font-size: 20px;
@@ -224,7 +219,6 @@ body{
     border-radius:10px
 }
 #subscribe-btn {
-    border: none;
     background-color: #ff5858da;
     color: #ffffff;
     text-align: center;
