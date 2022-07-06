@@ -38,7 +38,7 @@ body{
     font-size: 30px;
     background-color:#FF5960;
     padding: 20px 30px;
-    border-radius: 10px;
+    border-radius: 8px;
     font-weight: 600;
 }
 .donate-section {
@@ -86,13 +86,23 @@ body{
 }
 #input-text {
     border: none;
-    border-bottom: 3px solid #cccccc;
+    border-bottom: 2px solid #9b9a9abe;
     text-align: center;
     font-size: 30px;
-    width: 100%;
+    width: 90%;
     margin: 50px 50px;
     padding: 20px 0;
 }
+#donate-btn2 {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 30px;
+    background-color:#FF5960;
+    padding: 20px 30px;
+    border-radius: 8px;
+    font-weight: 600;
+}
+
 .donate-plan {
     text-align: center;
     margin-top: 220px;
@@ -104,7 +114,7 @@ body{
     margin: 0 auto;
     width: 70%;
     text-align: left;
-    padding: 15px 15px;
+    padding: 25px;
 }
 .donate-plan h1 {
     font-size: 80px;
@@ -141,7 +151,7 @@ body{
     width: 33%;
 }
 #donate-plan-2 {
-    background-color: #e0c7c7e7;
+    background-color: #e6dbdb;
     padding: 10px 15px;
     border-radius: 8px;
     margin-right: 25px;
@@ -182,7 +192,7 @@ body{
 .donate-help-left img{
     width: 700px;
     height: 100%;
-    box-shadow: 2px 2px 20px #000000;
+    border-radius: 8px;
 }
 .update-section {
     margin: 200px;
@@ -205,26 +215,26 @@ body{
     margin: 0 auto;
     text-align: center;
     background-color: #f3efef;
-    width:50%;
+    width:70%;
     height: 80px;
-    padding: 50px 40px 120px 40px;
+    padding: 50px 20px 150px 20px;
     border-radius: 5px;
 }
 #subscribe-text {
-    background-color: #dadadae0;
+    background-color: #dadadae7;
     text-align: left;
     font-size: 20px;
-    width: 50%;
+    width: 30%;
     padding: 15px 20px;
     border-radius:10px;
 }
 #subscribe-btn {
-    background-color: #ff5858da;
+    background-color: #FF5960;
     color: #ffffff;
     text-align: center;
     font-size: 20px;
     font-weight: 700;
-    width: 25%;
+    width: 15%;
     margin: 50px 50px;
     padding: 16px;
     margin-left: -15px;
